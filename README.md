@@ -1,4 +1,4 @@
-# grassbot
+# Grassbot.org
 3d Printed Grass Cutting Robot
 # GrassBot: WiFi-Controlled 3D Printed Grass-Cutting Robot
 
